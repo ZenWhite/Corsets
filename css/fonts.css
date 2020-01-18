@@ -1,0 +1,55 @@
+@font-face {
+    font-family: 'Gilroy';
+    src: url('../fonts/Gilroy-Regular.ttf');
+    font-weight: 400;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GilroyL';
+    src: url('../fonts/Gilroy-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GilroyB';
+    src: url('../fonts/Gilroy-Bold.ttf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'GilroySm';
+    src: url('../fonts/Gilroy-SemiBold.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RalewayL';
+    src: url('../fonts/Raleway-Light.ttf');
+    font-weight: 300;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'RalewaySm';
+    src: url('../fonts/Raleway-SemiBold.ttf');
+    font-weight: 500;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MullerB';
+    src: url('../fonts/MullerBold.otf');
+    font-weight: 700;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'MullerL';
+    src: url('../fonts/MullerLight.otf');
+    font-weight: 300;
+    font-style: normal;
+}
